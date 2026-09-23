@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://campus-tech-mu.vercel.app/sitemap.xml
